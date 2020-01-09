@@ -1,6 +1,6 @@
 # Analysis-of-Employee-Reviews-for-Top-Companies
 
-Data Analysis and Linear Regression
+Data Analysis, Linear Regression and statistical inference
 
 
 
