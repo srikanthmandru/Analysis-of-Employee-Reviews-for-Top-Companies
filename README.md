@@ -16,7 +16,7 @@ This project covers following topics through statistical tool 'R' :
  
  **Dataset Source:** https://www.kaggle.com/petersunga/google-amazon-facebook-employee-reviews
  
- **Results: ** 
+ **Results:** 
  
  1. Facebook stands out the best company among other companies from the employee reviews given during 2008 - 2018.
 
